@@ -1,2 +1,2 @@
 # Writings
-A folder for interests
+A folder for writings
